@@ -1,0 +1,27 @@
+{
+	"name": "Convert Case",
+	"short_name": "Convert Case",
+	"description": "Convert upper case to lower case, lower case to upper case and more!",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#FFFFFF",
+	"theme_color": "#E0E0E0",
+	"icons": [{
+		"src": "apple-touch-icon.png",
+		"sizes": "256x256",
+		"type": "image/png"
+	}],
+	"prefer_related_applications": true,
+	"related_applications": [
+		{
+			"platform": "play",
+			"url": "https://play.google.com/store/apps/details?id=net.convertcase.app",
+			"id": "net.convertcase.app"
+		},
+		{
+			"platform": "itunes",
+			"url": "https://apps.apple.com/app/id6502629680",
+			"id": "6502629680"
+		}
+	]
+}
